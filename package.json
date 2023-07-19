@@ -1,6 +1,6 @@
 {
   "name": "lessons",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "main": "index.js",
   "repository": "git@github.com:obrunofontana/lessons.git",
   "author": "Bruno Fontana <obrunofontana@gmail.com>",
